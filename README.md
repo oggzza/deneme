@@ -1,0 +1,3 @@
+# deneme
+giris
+reizzz
